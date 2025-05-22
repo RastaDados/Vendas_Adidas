@@ -70,8 +70,75 @@ A estratégia de preços da Adidas prioriza o mercado médio (€50–€150), c
   </tbody>
 </table>
 
+<b>📊 Insights:</b>
 
+- Sneakers têm maior disponibilidade, refletindo alta demanda.
+- Produtos infantis têm estoque maior, mas representam apenas 5% do catálogo.
 
+<hr>
+
+### Tamanhos Mais Populares
+
+<b>📌 Ranking de disponibilidade por tamanho (EU):</b>
+
+- 42 (15% do estoque)
+- 40 (14%)
+- 41 (13%)
+- 44 (12%)
+
+<b>📌 Problemas identificados:</b>
+
+Tamanhos acima de 46 e abaixo de 36 têm baixa disponibilidade, indicando possível falta de inclusividade.
+
+<hr>
+
+### Cores e Gênero
+
+<b>🎨 Cores dominantes:</b>
+
+- <b>Branco (Cloud White):</b> 40%
+- <b>Preto (Core Black):</b> 35%
+- <b>Outros (azul, rosa, cinza):</b> 25%
+
+<b>🚺 Gênero:</b>
+
+- <b>Unissex (U):</b> 70%
+- <b>Feminino (W):</b> 20%
+- <b>Infantil (K) e Masculino (M):</b> 10%
+
+<b>📊 Insight:</b>
+
+Oportunidade para expandir cores vibrantes e produtos com design mais segmentado (feminino e infantil).
+
+<hr>
+<br>
+
+# Recomendações Que eu Sugiro
+
+### Otimização de Estoque
+
+- Aumentar disponibilidade de tamanhos extremos (acima de 46 e abaixo de 36) para atender a um público mais diversificado.
+- Monitorar sazonalidade (ex.: tamanhos maiores podem ter mais demanda no inverno).
+
+### Precificação e Categorias
+
+<b>💰Estratégia de preços:</b>
+
+- Manter foco em €50–€150, mas testar bundles (kits com meias/mochilas) para aumentar ticket médio.
+- Promover produtos premium (€150+) com edições limitadas.
+
+<b>👟 Expansão de categorias:</b>
+
+- Aumentar variedade em calçados femininos (W), que representam apenas 20% do catálogo.
+- Lançar mais opções coloridas (ex.: tons pastéis para o público infantil).
+
+### Marketing e Posicionamento
+
+<b>📢 Campanhas sugeridas:</b>
+
+- "Tamanhos para Todos" (destaque para inclusividade).
+- "Cores da Temporada" (séries limitadas com paletas variadas).
+- Parcerias com influenciadores femininos para impulsionar a categoria W (Feminino).
 
 
 
