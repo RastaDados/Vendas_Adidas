@@ -42,6 +42,6 @@ Este relatório apresenta uma análise abrangente do portfólio de calçados da 
 <hr>
 <br>
 
-#✍️ Autor
+# ✍️ Autor
 
 - Mateus França - <a href="https://www.linkedin.com/in/mateus-fran%C3%A7a-775b57113/"> Linkedin </a>
