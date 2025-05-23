@@ -91,6 +91,8 @@ avail_fig = px.box(
     )
 ```
 
+![02](https://github.com/user-attachments/assets/98b238d8-59be-42d7-8d1e-ee09e7596532)
+
 <hr>
 
 #### Gráfico de Distribuição de Tamanhos
@@ -105,6 +107,8 @@ size_counts = filtered_df['size'].value_counts().reset_index()
     )
 ```
 
+![03](https://github.com/user-attachments/assets/a097b735-3cf7-4d90-b6cf-3505c7573b31)
+
 <hr>
 
 #### Gráfico de Preço vs Tamanho
@@ -116,6 +120,8 @@ price_size_fig = px.scatter(
         labels={'size_numeric': 'Tamanho Numérico', 'price': 'Preço (€)'}
     )
 ```
+
+![04](https://github.com/user-attachments/assets/98d4d711-e487-46ba-baeb-42f51fe2c2cd)
 
 <hr>
 
@@ -129,6 +135,8 @@ stock_rate = filtered_df.groupby('category')['has_stock'].mean().reset_index()
         labels={'has_stock': 'Taxa de Estoque', 'category': 'Categoria'}
     )
 ```
+
+![05](https://github.com/user-attachments/assets/c7a86dee-8bc4-4b44-9cbc-9426870a3041)
 
 ```python
     return price_fig, avail_fig, size_fig, price_size_fig, stock_fig
