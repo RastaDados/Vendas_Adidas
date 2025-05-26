@@ -31,7 +31,7 @@ Este relatório apresenta uma análise abrangente do portfólio de calçados da 
 
 # 🔗 Links
 
-- Dashboard do Power BI: <a her="https://app.powerbi.com/view?r=eyJrIjoiNzJkM2YwNTctODkyNC00OGRjLTkwYWUtNzJhZTAxNTM5NzdlIiwidCI6IjBjM2IyYzljLWVlYTctNDJlZi04YTYzLTcwOWIyNjU5NzYxOCJ9">Acesse</a>
+- Dashboard do Power BI: <a href="https://app.powerbi.com/view?r=eyJrIjoiNzJkM2YwNTctODkyNC00OGRjLTkwYWUtNzJhZTAxNTM5NzdlIiwidCI6IjBjM2IyYzljLWVlYTctNDJlZi04YTYzLTcwOWIyNjU5NzYxOCJ9">Acesse</a>
 
 - Dashboard em Python (Dash): <a href="https://github.com/RastaDados/Vendas_Adidas/blob/main/Dashboard_Python.md">Acesse</a>
 
